@@ -1,5 +1,7 @@
 # project-react-4-yujong-lee
 
+현재 [이 곳](https://github.com/yujong-lee/Tresk)으로 옮겨서 관리하고 있습니다.
+
 # Tresk
 
 Tree, Task, it's Tresk.
